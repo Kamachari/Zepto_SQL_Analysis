@@ -131,3 +131,11 @@ Load the dataset into pgAdmin or any other PostgreSQL client
 Create a database and run the SQL file
 
 Import the dataset (convert to UTF-8 if necessary)
+
+
+
+# 🔗 Connect
+👤 **Buragapalli Kamachari**  
+📧 Email: kamacharivarrier@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/buragapalli-kamachari-931624269/  
+📂 GitHub: github.com/kamachari
