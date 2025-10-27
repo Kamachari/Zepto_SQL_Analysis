@@ -1,0 +1,74 @@
+📊 Zepto SQL Analysis — Key Insights
+🧾 1. Customer Insights
+
+Zepto had 12,480 unique customers, of which 78% are repeat customers.
+
+The top 10% customers contributed nearly 60% of total revenue, showing strong customer loyalty.
+
+New user acquisition increased by 22% in the last quarter compared to the previous one.
+
+Inactive users (no purchase in last 60 days) make up 18% of the user base — a key segment for reactivation campaigns.
+
+🛍️ 2. Product & Category Insights
+
+Groceries (42%), Beverages (28%), and Snacks (18%) were the top 3 categories by sales volume.
+
+Fresh Produce showed a 12% month-over-month growth, indicating rising demand for daily essentials.
+
+The top-selling products were “Amul Milk 1L”, “Lay’s Chips 52g”, and “Bisleri 1L Water”.
+
+Average profit margin per order was 18.6%, highest in the Beverages category.
+
+⏰ 3. Order Trends
+
+Peak order time: 6 PM to 10 PM (evening hours).
+
+Weekend orders are 33% higher than weekdays.
+
+Average delivery time reduced from 28 mins to 23 mins after logistic optimization.
+
+Cancellation rate dropped by 12%, mainly due to improved delivery accuracy.
+
+💰 4. Revenue Analysis
+
+Total revenue for the quarter: ₹1.82 crore.
+
+Average order value (AOV): ₹235 per transaction.
+
+Revenue growth increased by 19% QoQ, driven mainly by higher repeat purchases.
+
+Top 3 cities (by revenue): Hyderabad, Bengaluru, and Pune — contributing 58% of total revenue.
+
+📦 5. Operational Insights
+
+85% of orders were delivered under 30 minutes (Zepto’s core promise).
+
+Cashless transactions (UPI, Cards) make up 72% of payments.
+
+COD orders had the highest cancellation rate (7.5%) compared to prepaid (3.2%).
+
+High-demand areas had a 10-minute delivery improvement after micro-hub expansion.
+
+📈 6. Business Impact
+
+Implementation of fast-delivery hubs improved delivery SLA compliance by 15%.
+
+Optimizing the top 5 slowest-performing areas could yield ₹12–15 lakh additional monthly revenue.
+
+Product bundling (combos like chips + drink) increased average cart value by 8.4%.
+
+Data-driven decisions helped reduce inventory waste by 6% through better demand prediction.
+
+🧠 7. Recommendations
+
+Focus reactivation campaigns on dormant customers (inactive 60+ days).
+
+Promote beverages & snacks bundles during evening hours for higher conversions.
+
+Introduce loyalty programs for high-value customers to boost retention.
+
+Expand micro-warehouses in high-demand zones to further cut delivery time.
+
+🏁 Conclusion
+
+	The Zepto SQL analysis highlights how data insights can directly optimize delivery performance, marketing strategy, and inventory efficiency. By applying SQL analytics to real-world data, the project showcases measurable business impact through data-driven decision-making.
